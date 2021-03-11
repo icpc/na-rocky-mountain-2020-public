@@ -1,0 +1,8 @@
+source: Rocky Mountain Regional Programming Contest 2020
+license: cc by-sa
+name: Pegs and Legs
+author: Zachary Friggstad
+validator_flags: float_tolerance 1e-6
+rights_owner: Rocky Mountain Regional Programming Contest 2020
+limits: 
+  time_multiplier: 3.0

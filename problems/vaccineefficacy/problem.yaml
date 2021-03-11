@@ -1,0 +1,6 @@
+source: Rocky Mountain Regional Programming Contest 2020
+license: cc by-sa
+name: Vaccine Efficacy
+author: Howard Cheng
+validator_flags: float_tolerance 1e-2
+rights_owner: Rocky Mountain Regional Programming Contest 2020
